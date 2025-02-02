@@ -90,8 +90,8 @@
 <h3 align="center">Reach me</h3>
 
 <p align="center">
-  <a  href="necklerskan9@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
+  <a href="mailto:necklerskan9@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Envíame un correo">
   </a>
 </p>
 
