@@ -26,7 +26,7 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl4ODdlczVra2hnMnI5dGU5cG9scGNmZGdyZjQ1dnc4bXB5ZWo2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="code">
 </p>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
@@ -49,8 +49,6 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-</p>
-<p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
@@ -105,8 +103,6 @@
   <a href="https://railway.app">
     <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
   </a>
-
-
 </p>
 
 ---
