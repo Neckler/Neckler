@@ -1,5 +1,5 @@
 <p align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=297167275431979998" height="336" width="236" frameborder="0" scrolling="no" ></iframe>
+  <img style="width:8rem; height:auto" src="https://i.pinimg.com/736x/dd/5d/55/dd5d55fb81d3b4f386a86247e1439c81.jpg"/>
 </p>
 
 <h1 align="center">Hi, I'm Abdelkader Neckler Skanderi <img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
