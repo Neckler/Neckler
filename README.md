@@ -26,86 +26,78 @@
 <h2 align="center"><u><b>Knowledge Base</b></u></h2>
 
 <p align="center">
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl4ODdlczVra2hnMnI5dGU5cG9scGNmZGdyZjQ1dnc4bXB5ZWo2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="code">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWl4ODdlczVra2hnMnI5dGU5cG9scGNmZGdyZjQ1dnc4bXB5ZWo2OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="code">
 </p>
+
 <p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://skill-icons.dev/icons/C.svg" alt="C"/>
   </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://skill-icons.dev/icons/Java.svg" alt="Java"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skill-icons.dev/icons/JavaScript.svg" alt="JavaScript"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://skill-icons.dev/icons/HTML5.svg" alt="HTML5"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+    <img src="https://skill-icons.dev/icons/CSS3.svg" alt="CSS3"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
+    <img src="https://skill-icons.dev/icons/Bootstrap.svg" alt="Bootstrap"/>
   </a>
   <a href="https://angular.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"
-      alt="bootstrap"/>
+    <img src="https://skill-icons.dev/icons/Angular.svg" alt="Angular"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://skill-icons.dev/icons/PostgreSQL.svg" alt="PostgreSQL"/>
   </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
+  <a href="https://www.sqlite.org/" target="_blank">
+    <img src="https://skill-icons.dev/icons/SQLite.svg" alt="SQLite"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skill-icons.dev/icons/MongoDB.svg" alt="MongoDB"/>
   </a>
   <a href="https://www.php.net">
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+    <img src="https://skill-icons.dev/icons/PHP.svg" alt="PHP">
   </a>
   <a href="https://laravel.com">
-    <img src="https://img.shields.io/badge/Laravel-FB503B?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+    <img src="https://skill-icons.dev/icons/Laravel.svg" alt="Laravel">
   </a>
   <a href="https://developer.android.com/studio">
-    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Studio">
+    <img src="https://skill-icons.dev/icons/AndroidStudio.svg" alt="Android Studio">
   </a>
-    <a href="https://en.wikipedia.org/wiki/Hardware">
-    <img src="https://img.shields.io/badge/Hardware-007BFF?style=for-the-badge&logo=hardware&logoColor=white" alt="Hardware">
+  <a href="https://en.wikipedia.org/wiki/Hardware">
+    <img src="https://skill-icons.dev/icons/Hardware.svg" alt="Hardware">
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
+    <img src="https://skill-icons.dev/icons/Git.svg" alt="Git"/>
   </a>
   <a href="https://github.com/Neckler" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    <img src="https://skill-icons.dev/icons/GitHub.svg" alt="GitHub" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
+    <img src="https://skill-icons.dev/icons/VSCode.svg" alt="VS Code"/>
   </a>
   <a href="https://netbeans.apache.org">
-    <img src="https://img.shields.io/badge/NetBeans-0076A8?style=for-the-badge&logo=apache-netbeans&logoColor=white" alt="NetBeans">
+    <img src="https://skill-icons.dev/icons/NetBeans.svg" alt="NetBeans">
   </a>
   <a href="https://www.interaction-design.org/literature/topics/ux-design">
-    <img src="https://img.shields.io/badge/UX-FF6F00?style=for-the-badge&logo=figma&logoColor=white" alt="UX Design">
+    <img src="https://skill-icons.dev/icons/UX.svg" alt="UX Design">
   </a>
   <a href="https://cloud.google.com">
-    <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+    <img src="https://skill-icons.dev/icons/GoogleCloud.svg" alt="Google Cloud">
   </a>
   <a href="https://railway.app">
-    <img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white" alt="Railway">
+    <img src="https://skill-icons.dev/icons/Railway.svg" alt="Railway">
   </a>
   <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3.9-blue" alt="Python Badge">
+    <img src="https://skill-icons.dev/icons/Python.svg" alt="Python">
   </a>
+</p>
+
 
 </p>
 
