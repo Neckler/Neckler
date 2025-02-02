@@ -91,9 +91,9 @@
 
 <p align="center">
   <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="necklerskan9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
   </a>
 </p>
@@ -103,8 +103,8 @@
 <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2>
 
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
+[![](https://github-readme-stats.vercel.app/api?username=neckler-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Neckler)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=neckler-48&theme=material-palenight)](https://github.com/Neckler)
 
 </div>
 
@@ -116,7 +116,5 @@
 </p>
 
 ---
-
-Credit: [Elanza-48](https://github.com/Elanza-48)
 
 Last Edited on: 02/02/2025
